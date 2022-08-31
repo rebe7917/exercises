@@ -5,3 +5,4 @@ const animalName = "Niller";
 
 console.log(`My name is ${name}
 I have a ${animalType} called ${animalName}.`);
+
